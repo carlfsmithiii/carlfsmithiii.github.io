@@ -1,0 +1,32 @@
+body {
+    background-color: #333333;
+    color: #A0A0A0;
+}
+
+h1 {
+    color: #29FF00;
+}
+
+h2 {
+    color: #65A758;
+}
+
+h3 {
+    color: #CD6A97;
+}
+
+a:link {
+    color: hsl(35, 70%, 70%);
+}
+
+a:visited {
+    color: hsl(35, 50%, 50%);
+}
+
+a:hover {
+    color: hsl(35, 90%, 90%);
+}
+
+a:active {
+    color: hsl(35, 100%, 100%);
+}
