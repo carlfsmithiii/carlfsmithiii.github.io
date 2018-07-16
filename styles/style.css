@@ -13,10 +13,13 @@ article, aside, footer, header, hgroup, nav, section {
 h1 {
     background-color: #5982AC;
     color: #000000;
-    text-shadow: 2px 2px #A67D53;
+    text-shadow: 2px 2px 2px #A67D53;
     text-align: center;
     padding: 1em;
     font-size: 5em;
+    font-family: 'Playfair Display', serif;
+    /* font-family: 'Tangerine', serif; */
+    /* font-family: 'Fira Sans', serif; */
 }
 
 h2 {
