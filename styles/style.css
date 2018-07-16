@@ -1,6 +1,7 @@
 body {
     background-color: #000000;
     color: #A0A0A0;
+    line-height: 1.3em;
 }
 
 h1 {
@@ -13,6 +14,10 @@ h2 {
 
 h3 {
     color: #CD6A97;
+}
+
+h3.aside_header {
+    color: #656590;
 }
 
 a:link {
@@ -29,4 +34,9 @@ a:hover {
 
 a:active {
     color: hsl(35, 100%, 100%);
+}
+
+#podcast {
+    float: right;
+    padding: 0 5em;
 }
