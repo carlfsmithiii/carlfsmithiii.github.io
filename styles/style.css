@@ -13,6 +13,7 @@ article, aside, footer, header, hgroup, nav, section {
 h1 {
     background-color: #5982AC;
     color: #000000;
+    text-shadow: 2px 2px #A67D53;
     padding: 1em;
     font-size: 5em;
 }
