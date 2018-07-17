@@ -18,12 +18,11 @@ h1 {
     padding: 1em;
     font-size: 5em;
     font-family: 'Playfair Display', serif;
-    /* font-family: 'Tangerine', serif; */
-    /* font-family: 'Fira Sans', serif; */
 }
 
 h2 {
     color: #29FF00;
+    letter-spacing: 0.1em;
 }
 
 h3 {
@@ -53,4 +52,8 @@ a:active {
 #podcast {
     float: right;
     padding: 0 5em;
+}
+
+.float_right{
+    float: right;
 }
